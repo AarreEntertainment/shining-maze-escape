@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/jack_horror_track_high_threat.mp3-6d16ebe1a4e943591691b9314fb2f8ef.mp3str"
+
+[deps]
+
+source_file="res://audio/jack_horror_track_high_threat.mp3"
+dest_files=[ "res://.import/jack_horror_track_high_threat.mp3-6d16ebe1a4e943591691b9314fb2f8ef.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

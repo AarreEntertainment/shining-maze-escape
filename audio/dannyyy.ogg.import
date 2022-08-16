@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/dannyyy.ogg-c4e0c808869f9ccc8db636dad67cd4fe.oggstr"
+
+[deps]
+
+source_file="res://audio/dannyyy.ogg"
+dest_files=[ "res://.import/dannyyy.ogg-c4e0c808869f9ccc8db636dad67cd4fe.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

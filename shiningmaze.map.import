@@ -1,0 +1,13 @@
+[remap]
+
+importer="qodot.map"
+type="Resource"
+path="res://.import/shiningmaze.map-26c0650d021ad88c8fc0a48d6cd41469.tres"
+
+[deps]
+
+source_file="res://shiningmaze.map"
+dest_files=[ "res://.import/shiningmaze.map-26c0650d021ad88c8fc0a48d6cd41469.tres" ]
+
+[params]
+

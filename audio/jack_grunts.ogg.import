@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/jack_grunts.ogg-dc2e92f759b84138519dea01cd652105.oggstr"
+
+[deps]
+
+source_file="res://audio/jack_grunts.ogg"
+dest_files=[ "res://.import/jack_grunts.ogg-dc2e92f759b84138519dea01cd652105.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,35 @@
+[gd_resource type="Resource" load_steps=5 format=2]
+
+[ext_resource path="res://addons/PhysicalCharacter/DefaultViewBoxCurve.tres" type="Curve" id=1]
+[ext_resource path="res://addons/PhysicalCharacter/DefaultBobCurve.tres" type="Curve" id=2]
+[ext_resource path="res://addons/PhysicalCharacter/DefaultAccelerationFromDotCurve.tres" type="Curve" id=3]
+[ext_resource path="res://addons/PhysicalCharacter/PlayerSettings.gd" type="Script" id=4]
+
+[resource]
+script = ExtResource( 4 )
+ride_height = 1.675
+crouch_ride_height = 0.8
+ride_spring_strength = 1000.0
+ride_spring_damper = 100.0
+max_speed = 2.8
+max_speed_sprint = 5.5
+max_speed_crouch = 1.75
+acceleration = 8.0
+acceleration_air = 0.2
+acceleration_sprint = 10.0
+max_acceleration_force = 10.0
+acceleration_factor_from_dot = ExtResource( 3 )
+fall_stun_height = 0.75
+fall_stun_length = 0.25
+mouse_sensitivity = 0.25
+invert_mouse = false
+stick_sensitivity = 100.0
+head_bob_enabled = true
+max_bob_height = 0.1
+bob_curve = ExtResource( 2 )
+head_tilt_enabled = true
+mouse_look_mode = 0
+view_box = Vector2( 100, 100 )
+view_box_dead_zone = Vector2( 0.4, 0.4 )
+view_box_sensitivity = 1.5
+view_box_curve = ExtResource( 1 )
